@@ -1,0 +1,72 @@
+DHANUSH MAJJI  
+Machine Learning & Cloud Enthusiast Specialist
+  
++917995743299 | dhanushmajji14@gmail.com | Karlskrona, Sweden | https://www.linkedin.com/in/dhanush-kumar-majji-22214b2a7/   
+CAREER SUMMARY  
+Machine Learning oriented Computer Science graduate with research experience in model evaluation, statistical testing, and applied 
+AI. Worked on multiple academic projects involving supervised learning, anomaly detection, and explainable AI, with emphasis on 
+reproducibility and statistical significance. Experienced in experimental design, cross-validation, and comparative analysis of ML 
+algorithms.   
+EXPERTISE  
+Machine Learning Modeling | Supervised & Unsupervised Learning | Feature Engineering | Data Preprocessing | Model Evaluation & 
+Validation | Imbalanced Data Handling (SMOTE) | Anomaly Detection | Explainable AI (SHAP) | Statistical Model Comparison | 
+Cloud-based ML.  
+TECHNICAL SKILLS  
+Programming & Tools: Python, Java, JavaScript, SQL, PHP, Git  
+Machine Learning: Scikit-learn, Random Forest, Logistic Regression, Naive Bayes, k-NN, SMOTE, Isolation Forest, DBSCAN, 
+SHAP  
+Data & Analytics: Pandas, NumPy, Feature Engineering, Cross-Validation, Statistical Testing (Friedman, Nemenyi)  
+Cloud & DevOps: AWS EC2, VPC, CloudWatch, Linux, Sysbench, VM Monitoring  
+Databases: MySQL  
+Software Engineering: REST APIs, MVC Architecture, Functional Testing, UI/UX Design  
+ACADEMIC PROJECT EXPERIENCE  
+DETECTING DRUG DISPENSING ANOMALIES USING MACHINE LEARNING  
+Machine Learning, Data Engineering, Healthcare Analytics | Sweden    
+• Built a complete ML pipeline for detecting anomalies in drug usage and adverse reactions using Isolation Forest and  
+DBSCAN.  
+• Processed and integrated large-scale JSON and CSV datasets, performing cleaning, normalization, and deduplication.  
+• Engineered advanced features such as severity ratio, reaction diversity, and normalized drug cost to improve model 
+insights.  
+• Classified drug reaction severity using Logistic Regression and Random Forest, evaluated via cross-validation.  
+• Applied SHAP for explainable AI, improving interpretability of healthcare-related predictions.  
+SPAM DETECTION: EVALUATION OF PREDICTIVE MODELS & STATISTICAL COMPARISON  
+Machine Learning, Model Evaluation | Sweden    
+• Implemented and compared Decision Tree, Naive Bayes, and k-NN classifiers on the UCI Spambase dataset.  
+• Conducted 10-fold stratified cross-validation measuring accuracy, F1-score, and training time.  
+• Performed Friedman and Nemenyi statistical tests to validate performance differences between classifiers.  
+• Demonstrated strong understanding of model comparison and statistical significance in ML research.  
+WINE QUALITY CLASSIFICATION WITH CLASS IMBALANCE HANDLING  
+Data Science, Predictive Modeling | Sweden    
+• Developed predictive models using Logistic Regression and Random Forest on the Wine Quality dataset.  
+• Addressed class imbalance using SMOTE, analysing its impact on training vs. test performance.  
+• Evaluated models using accuracy, precision, recall, and F1-score with repeated stratified cross-validation.  
+• Identified overfitting risks and proposed improvements for better generalization.  
+CLOUD COMPUTING: VM MONITORING & PERFORMANCE ANALYSIS (AWS)  
+Cloud Infrastructure, Performance Engineering | Sweden    
+• Deployed and configured AWS EC2 instances with secure key pairs, security groups, and VPC networking.  
+• Monitored system metrics using AWS CloudWatch under CPU, disk, and web traffic stress.  
+• Executed stress tests using Sysbench, analysing CPU utilization and disk I/O performance.  
+• Demonstrated practical skills in cloud monitoring, Linux administration, and performance optimization.  
+QUICK DONOR – MOBILE APPLICATION DESIGN  
+Mobile App Development, Full-Stack Concepts | Sweden    
+• Designed a mobile application to connect blood donors with recipients efficiently.  
+• Contributed to application context, data flow design, and backend logic.  
+• Implemented MVC architecture using Flutter (UI), PHP (backend), REST APIs, and MySQL.  
+• Focused on user-centric UI design, screen flow, and data lifecycle management.  
+FUNCTIONALITY TESTING IN WEB APPLICATIONS – RESEARCH STUDY  
+Software Testing, Empirical Research | Sweden    
+• Conducted a systematic mapping study and survey on challenges in web application functionality testing.  
+• Analysed 27 research papers and identified key challenges such as test automation, cloud testing, and large-scale systems.  
+• Designed and analysed survey data from IT practitioners to propose practical testing solutions.  
+• Strengthened skills in research methodology, technical writing, and analytical reasoning.  
+EDUCATION  
+MASTER’S DEGREE | Advanced Computer Science | Blekinge Institute of Technology  
+•  Received 50% Scholarship for excellent academic performance.  
+BACHELOR’S DEGREE | Computer Science Engineering | JNTU Kakinada  
+2024 – 2026 
+2020 – 2024 
+INTERESTS  
+Technical Writing & Research Documentation | Solving & Analytical Thinking | Reading tech blogs, UI design exploration, 
+mindfulness & fitness  
+AVAILABILITY  
+Open to internships, thesis projects, and entry-level computer science and software engineering roles in Sweden. 
