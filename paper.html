@@ -1,1 +1,101 @@
-https://dhanushmajji1428.github.io/FlyRank/paper.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Content Refresh Prediction Using Machine Learning</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f4f6f9;color:#333;line-height:1.7;margin:0}
+header{background:#2563eb;color:#fff;padding:40px;text-align:center}
+main{max-width:900px;margin:auto;padding:30px}
+section{background:#fff;margin:20px 0;padding:25px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+h2{color:#2563eb}
+table{border-collapse:collapse;width:100%}
+th,td{border:1px solid #ccc;padding:8px;text-align:left}
+footer{background:#2563eb;color:#fff;text-align:center;padding:20px;margin-top:30px}
+code{background:#eee;padding:2px 4px}
+</style>
+</head>
+<body>
+<header>
+<h1>Content Refresh Prediction Using Machine Learning</h1>
+<p>FlyRank Machine Learning Internship – Capstone Research Paper</p>
+<p><strong>Author:</strong> Dhanush Kumar</p>
+</header>
+<main>
+
+<section>
+<h2>Abstract</h2>
+<p>This study investigates whether machine learning can support content refresh decisions. A Decision Tree model was trained and compared with a baseline using the FlyRank ML Internship dataset. The workflow included preprocessing, validation, and leakage checks. The Decision Tree outperformed the baseline while remaining interpretable. The results demonstrate the value of machine learning as a decision-support tool with appropriate limitations.</p>
+</section>
+
+<section>
+<h2>Introduction</h2>
+<p>Keeping web content up to date is important for maintaining user engagement and search performance. This project evaluates whether a Decision Tree classifier can improve content refresh prediction compared with a baseline approach.</p>
+</section>
+
+<section>
+<h2>Data</h2>
+<p>The project uses the FlyRank Machine Learning Internship dataset. This report intentionally excludes client names, URLs, search queries, and other non-public information. Data was cleaned and split into 80% training and 20% testing subsets.</p>
+</section>
+
+<section>
+<h2>Methodology</h2>
+<ul>
+<li>Data preprocessing</li>
+<li>Feature selection</li>
+<li>Baseline evaluation</li>
+<li>Decision Tree training</li>
+<li>80/20 train-test split</li>
+<li>Validation and feature leakage checks</li>
+</ul>
+</section>
+
+<section>
+<h2>Results</h2>
+<table>
+<tr><th>Model</th><th>Accuracy</th></tr>
+<tr><td>Baseline</td><td>98.18%</td></tr>
+<tr><td>Decision Tree</td><td>99.98%</td></tr>
+</table>
+<p>The Decision Tree achieved higher predictive performance than the baseline while remaining easy to interpret.</p>
+</section>
+
+<section>
+<h2>Limitations</h2>
+<ul>
+<li>Single internship dataset.</li>
+<li>Results should be interpreted as decision support.</li>
+<li>Future work can evaluate additional models and larger datasets.</li>
+</ul>
+</section>
+
+<section>
+<h2>Ranked Recommendations</h2>
+<ol>
+<li>Prioritize content with the highest predicted refresh score.</li>
+<li>Review recommendations with human oversight.</li>
+<li>Monitor model performance after deployment.</li>
+<li>Retrain periodically with new data.</li>
+<li>Expand the feature set for future work.</li>
+</ol>
+</section>
+
+<section>
+<h2>Reproducibility</h2>
+<p>This repository contains the preprocessing notebook, baseline model, Decision Tree implementation, validation audit, action playbook, and capstone notebook.</p>
+<p>Repository: <code>https://github.com/dhanushmajji1428/FlyRank</code> (update if needed)</p>
+</section>
+
+<section>
+<h2>Acknowledgments & Data Credit</h2>
+<p>Built on the FlyRank ML Internship dataset.</p>
+<p>Data Credit: <a href="https://flyrank.ai" target="_blank">https://flyrank.ai</a></p>
+</section>
+
+</main>
+<footer>
+<p>© 2026 Dhanush Kumar</p>
+</footer>
+</body>
+</html>
